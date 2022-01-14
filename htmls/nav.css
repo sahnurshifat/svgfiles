@@ -1,0 +1,18 @@
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: coral;
+    align-items: center;
+    height: 50px;
+}
+nav ul li a:hover{
+    color: white;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+}
